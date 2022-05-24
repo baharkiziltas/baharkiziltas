@@ -5,7 +5,7 @@
 <br />
 Before learning software, 
 I worked in different jobs. <br>
-I've been learning software for the last 7 months. <br>
+I've been learning software for the last 9 months. <br>
 It's been quite an exciting time and  <br>
 I've really enjoyed everything this new process has introduced me to.  <br>
 I spend my days with tutorials and applications about CSS, JavaScript.  <br>
